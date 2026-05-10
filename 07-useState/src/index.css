@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body, head{
+    height:100%;
+    width:100%;
+}
+
+button{
+  padding:20px 100px;
+  margin:50px;
+  background-color: lightgrey;
+}
+
+input{
+  padding:10px 70px;
+  margin:20px;
+  background-color: lime;
+  width:fit-content;
+  font-size:100px;
+}
